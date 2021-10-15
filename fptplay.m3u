@@ -1,112 +1,111 @@
 #EXTM3U url-tvg="http://gg.gg/tlnqchannelepg"
-#Liên hệ chủ list IPTV tại đây:facebook.com/tlnq.channel.9999
-#EXTM3U Bản quyền list IPTV này thuộc về TLNQ Channel TV
+
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/VTV2_HD.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+#EXTVLCOPT:http-user-agent="HoangPro" 
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Vtv3_hd.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/21/VTV4_HD.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest?cb=20201231094036&path-prefix=vi" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tây Nam Bộ 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_T%C3%A2y_Nguy%C3%AAn_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 Tây Nguyên 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/VTV6_HD_logo_2019.png/revision/latest?cb=20201228134033&path-prefix=vi" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/VTV7_HD_05.02.2019-nay.png/revision/latest?cb=20201213014332&path-prefix=vi" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-soure="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e7/VTV8_HD_logo_2016_tr%C6%B0%E1%BB%9Bc_v%C3%A0_sau_th%E1%BB%9Di_s%E1%BB%B1.png/revision/latest?cb=20201231095354&path-prefix=vi",VTV8 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/HTV1_screenbug_logo.png/revision/latest?cb=20210709151032&path-prefix=vi",HTV1 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/db/HTV2_Channel_Logo.png",HTV2 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f2/HTV3_logo_2019.webp",HTV3 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",HTV4 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/HTV_Sport_logo.png/revision/latest?cb=20210625044443&path-prefix=vi",HTV Thể Thao 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png",HTV7 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png",HTV9 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+#EXTVLCOPT:http-user-agent="HoangPro" 
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ThuanViet_HD_logo.png/revision/latest?cb=20210625043428&path-prefix=vi",HTVC Thuần Việt HD 
 #EXTVLCOPT:http-user-agent="TLNQChannelTV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc1hd.jpg",VTC1 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc2.jpg",VTC2 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc3hd.jpg",VTC3 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc4hd.jpg",VTC4 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC4/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc5hd.jpg",VTC5 HD
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC5/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc6hd.jpg",VTC6 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC6/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc7hd.png",VTC7 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png",VTC8 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc9hd.jpg",VTC9 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc10hd.jpg",VTC10 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc11.jpg",VTC11 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc12.png",VTC12 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.megavie.live/media/vtc13hd.jpg",VTC13 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png",VTC14 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV" 
+#EXTVLCOPT:http-user-agent="HoangPro" 
 https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png",VTC16 HD 
-#EXTVLCOPT:http-user-agent="TLNQChannelTV"
+#EXTVLCOPT:http-user-agent="HoangPro"
 https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg",THVL1 HD 
@@ -130,6 +129,103 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhandantv" group-title="Kênh thiết yếu" tvg-logo="https://static.megavie.live/media/nhandan.jpg",Nhân Dân TV 
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1442207033.m3u8
+
+#EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
+#EXTVLCOPT:http-user-agent="BearTV"
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",DreamWorks
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
+#EXTVLCOPT:http-user-agent="BearTV"
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
+#EXTVLCOPT:http-user-agent="BearTV"
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png", KIX HD
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png", Boomerang
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network HD
+#EXTVLCOPT:http-user-agent="BearTV"
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/X5gLjLF/babyfirst-BEARTV.png" , Baby First
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="babytvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png",Baby TV
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="happykids"  group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png" , Cbeebies
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/rKjKR2H/Canal-Kids-BEARTV.png",CANAL+ KIDS
+http://stop.next-code.xyz:2052/Nador/66263/20223
+#EXTINF:0 tvg-id="animaxhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png" , Animax
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" , Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png" , Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ - QNET",Da Vinci HD
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ - QNET",Asian Food Network
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png", TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="blueantent" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png" ,Rock Entertainment
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="blueantext" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png" ,Rock Extreme
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png", National Geographic HD
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" , Discovery Channel
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png", Discovery Asia
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png" , Outdoor Channel
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion TV 4K
+#EXTVLCOPT:http-user-agent="BearTV"
+#https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="abcaustralia" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png", ABC Australia
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png", BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg", BBC Lifestyle
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg/1200px-Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_An_Giang_-_ATV.svg.png",An Giang
 http://221.133.9.35:1935/live/1.stream_360p/playlist.m3u8
@@ -273,22 +369,3 @@ http://27.72.164.157:8080/hls/ttv.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://yenbaitv.org.vn/modules/frontend/themes/ptthyb/images/logo-footer-small.png?v=2.620210721142624",Yên Bái 
 https://yenbaitv.org.vn/hls/livestream.m3u8
-
-#EXTINF:-1 group-title="Phim", Trò chơi con mực tập 1
-https://scontent.fhan5-1.fna.fbcdn.net/v/t66.36240-6/10000000_397392511786582_777273344885097209_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=e7ptshA0VOQAX_mPmNm&rl=1500&vabr=946&_nc_ht=scontent-bru2-1.xx&oh=c21febe56b0b1b0b412a69558b1f1914&oe=61634CF8
-#EXTINF:-1 group-title="Phim", Trò chơi con mực 2
-https://scontent.fhan6-1.fna.fbcdn.net/v/t66.36240-6/10000000_2905631569685783_810374157003387651_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=b7jXPqdk69wAX_HilC7&rl=1500&vabr=749&_nc_ht=scontent-bru2-1.xx&oh=b0f0db0232dce0ab4d783979c07d986a&oe=6164420F
-#EXTINF:-1 gruop-title="Phim", Trò chơi con mực 3
-https://scontent.fhan5-5.fna.fbcdn.net/v/t66.36240-6/10000000_2982296212039242_1746273853499411300_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=Ye2pVSPumZQAX9RTU88&rl=1500&vabr=820&_nc_ht=scontent-bru2-1.xx&oh=3535be8cba3cf2bc9c046d009bf07db5&oe=6164BDFE
-#EXTINF:-1 gruop-title="Phim", Trò chơi con mực 4
-https://scontent.fsgn8-1.fna.fbcdn.net/v/t66.36240-6/10000000_270714684915847_1348342386876756289_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=m6rI0nZhMngAX9F1iEK&rl=1500&vabr=885&_nc_ht=scontent-bru2-1.xx&oh=91b6d65cd1aee0c1b4b28a07dc4ef54d&oe=61645D17
-#EXTINF:-1 group-title="Phim", Trò chơi con mực 5
-https://scontent.fhan4-1.fna.fbcdn.net/v/t66.36240-6/10000000_3127731537463847_6768198501954524037_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=qtoaA5uHvbsAX8f1u_i&rl=1500&vabr=699&_nc_ht=scontent-bru2-1.xx&oh=40e7aab3d2a40080aa901b7b15f1f0b7&oe=6163D9FB
-#EXTINF:-1 group-title="Phim", Trò chơi con mực 6
-https://scontent.fhan2-3.fna.fbcdn.net/v/t66.36240-6/10000000_1729287497266566_5964767060717451831_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=uYKgYhArGV4AX8wjNLx&_nc_oc=AQnHU884Dj1NqBgG4JlCWMADbWbuKSTShmFfvODHjEuDB11eGP8n4WTe4fnpo9jokL4&rl=1500&vabr=780&_nc_ht=scontent-bru2-1.xx&oh=cbd49af2714304071670fbb06697ee78&oe=616385FC
-#EXTINF:-1 group-title="Phim", Trò chơi con mực 7
-https://cloud.vidsugar.com/sun/yume/60d3113d84c49d1b2bfca21c0f43f14d/chunklist.m3u8?prx=gps
-#EXTINF:-1 group-title="Phim", Trò chơi con mực 8
-https://scontent.fsgn4-1.fna.fbcdn.net/v/t66.36240-6/10000000_555813428977984_741921166735306601_n.mp4?_nc_cat=104&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=QjP8hfg2ZV8AX_VNTWK&rl=1500&vabr=711&_nc_ht=scontent-bru2-1.xx&oh=baf7eb289939203608be1b1d16295d80&oe=61648B47
-#EXTINF:-1 gruop-title="Phim", Trò chơi con mực 9
-https://scontent.fhan4-2.fna.fbcdn.net/v/t66.36240-6/10000000_544714856617344_3155752004351254877_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=i--ruGk82toAX-Vlc-4&rl=1500&vabr=677&_nc_ht=scontent-bru2-1.xx&oh=afcff37aed6e599e801c0ce420713e46&oe=61635262
