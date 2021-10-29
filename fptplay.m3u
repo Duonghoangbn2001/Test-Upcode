@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/tlnqchannelepg"
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
-http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
+http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
-http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
 http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
 #EXTINF:-1 group-title="TIENGRUOI.LINK" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK4
